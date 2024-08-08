@@ -12,3 +12,6 @@ and then execute python script
 ```python
 python3 main.py
 ```
+
+
+![Tux, the Linux mascot](/pictures/tux.avif)
